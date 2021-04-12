@@ -31,7 +31,7 @@ body {
 
 .list-item span {
   color: rgba(0, 0, 0, 0.75);
-  font-size: 12pt;
+  font-size: 8pt;
 }
 
 #posts > li {
