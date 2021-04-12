@@ -1,0 +1,13 @@
+{{ define "main" }}
+<ul id="posts">
+    <!-- Ranges through content/notice/*.md -->
+    {{ range .Pages }}
+    <li>
+        <a class="list-item" href="{{.Permalink}}">
+            <h2>{{.Title}}</h2>
+            <span>{{.Date.Format "2006년 01월 02일"}}</span>
+        </a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

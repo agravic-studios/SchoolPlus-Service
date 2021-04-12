@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section id="single-main" class="markdown-body">
+    <h1 id="title">{{ .Title }}</h1>
+    <h3 id="date">{{ .Date.Format "2006년 1월 2일 (월)" }}</h3>
+    <div>
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+</section>
+{{ end }}
