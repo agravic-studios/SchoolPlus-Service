@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://agravic-studios.github.io/SchoolPlus-Service/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>app-notice on My New Hugo Site</title>
+    <link>https://agravic-studios.github.io/SchoolPlus-Service/categories/app-notice/</link>
+    <description>Recent content in app-notice on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Apr 2021 21:31:23 +0900</lastBuildDate>
     
-	<atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/categories/app-notice/index.xml" rel="self" type="application/rss+xml" />
     
     
     
