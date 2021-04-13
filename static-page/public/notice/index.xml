@@ -6,11 +6,22 @@
     <description>Recent content in Notices on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/notice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/notice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v0.3.1a 긴급 업데이트 안내</title>
+      <link>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.1a-%EA%B8%B4%EA%B8%89-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</link>
+      <pubDate>Tue, 13 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <guid>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.1a-%EA%B8%B4%EA%B8%89-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</guid>
+      <description>오늘(13일) 출시된 v0.3.0a에서 아래와 같은 오류를 발견하였고, 이를 긴급하게 수정하였습니다.
+ 시간표 화면에서 안내 사항을 담은 화면이 지속적으로 노출되는 문제 (정상적인 작동이라면 최초 1회만 노출되어야 함)  다만 구글 측의 검수 과정을 거쳐야 하는 관계로, 실제 업데이트는 1-2일 내로 이루어질 것으로 예상됩니다.
+사용에 불편을 드려 죄송합니다.</description>
+    </item>
+    
     <item>
       <title>v0.3.0a 업데이트 안내</title>
       <link>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.0a-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0900</pubDate>
       
       <guid>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.0a-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</guid>
       <description>v0.3.0a 버전으로 업데이트되었습니다.
