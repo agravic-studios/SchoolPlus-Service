@@ -6,7 +6,18 @@
     <description>Recent content in Notices on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 13 Apr 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/notice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://agravic-studios.github.io/SchoolPlus-Service/notice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v0.3.2a 업데이트 안내</title>
+      <link>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.2a-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.2a-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</guid>
+      <description>v0.3.1a 버전으로 업데이트되었습니다.
+변경 또는 추가된 사항들은 아래와 같습니다.
+1. 버그 수정  Android 6 이하의 환경에서 학교 검색, NEIS 시간표 조회가 제대로 되지 않던 현상을 해결하였습니다. (한글 인코딩 문제로 확인되었습니다.) NEIS 시간표에서 오늘(요일)이 강조되는 표시가 올바르지 않던 현상을 해결하였습니다.  이 외에도&amp;hellip; 코드 내부의 개선이 이루어졌습니다.</description>
+    </item>
+    
     <item>
       <title>v0.3.1a 긴급 업데이트 안내</title>
       <link>https://agravic-studios.github.io/SchoolPlus-Service/notice/v0.3.1a-%EA%B8%B4%EA%B8%89-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4/</link>
